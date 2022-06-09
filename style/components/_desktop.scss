@@ -1,0 +1,42 @@
+@import '../abstract/variables';
+
+@media (min-width: 60em){
+  .header{
+    display: none;
+  }
+  .section{
+    display: flex;
+    flex-direction: row-reverse;
+    .header__desktop{
+      display: block;
+      padding-bottom: 5rem;
+    }
+    .section__img{
+      display: none;
+    }
+    .section__img__desktop{
+      display: block;
+      height: 100vh;
+      max-width: 50%;
+
+    }
+    .section__wrapper{
+      background-image: url(../../images/bg-pattern-desktop.svg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      padding-left: 10.25rem;
+      padding-right: 13.25rem;
+      width: 100%;
+
+      .section__title1{
+        text-align: left;
+        font-size: 4rem;
+
+      }
+      .section__paragraph{
+        text-align: left;
+        font-size: 1rem;
+      }
+    }
+  }
+}
