@@ -3,6 +3,9 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=FINISHED&color=GREEN&style=for-the-badge"/>
 </p>
 
+![Base apparel coming soon](https://user-images.githubusercontent.com/105171818/173122655-c36b1bfc-8f5f-4c18-8385-e173c9528344.png)
+
+
 ## Challenge from Front End Mentor<br>
 A responsive web page with form validation for emails ✅
 ## ✔️ Technologies used : 
